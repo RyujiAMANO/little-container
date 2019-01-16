@@ -1,0 +1,16 @@
+{
+    "name": "ryus/little-container",
+    "description": "DI Container",
+    "type": "library",
+    "authors": [
+        {
+            "name": "RyujiAMANO",
+            "email": "ryuji@ryus.co.jp"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ryus\\LittleContainer\\": "src/"
+        }
+    }
+}
